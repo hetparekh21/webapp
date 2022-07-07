@@ -83,5 +83,5 @@ function check_input(value) {
 	console.log(document.getElementById("argument").innerText.toString());
 
 	document.getElementById("a").value = document.getElementById("argument").innerText.toString() ;
-	
+    // het
 }
